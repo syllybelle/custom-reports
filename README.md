@@ -1,6 +1,6 @@
 # Custom Reports for Viedoc Reports 
 
-## What are Viedoc Reports and Viedoc Custom Reports
+## What are Viedoc Reports and Viedoc Custom Reports 
 Viedoc Reports is an integrated Viedoc application for viewing and analysing study progress and performance, allowing data to be browsed and visualised in reports and graphs.
 
 ![Reports](./docs/assets/reports.png)
